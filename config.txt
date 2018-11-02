@@ -1,6 +1,6 @@
-token=NTA3ODMwNjkzMTU4NzE1Mzk0.Dr2i9Q.pM0sR_OTUyYORNp-mU2VXsazoto
+token=NTA3ODMwMzc2NDc2MDQ5NDE4.Dr2jeQ.WpJYWZ_CzN4JJ7XYCIg3WKOcZCE
 owner=300306052610523136
-prefix=A
+prefix=K
 game=
 stayinchannel=true
 songinstatus=false
